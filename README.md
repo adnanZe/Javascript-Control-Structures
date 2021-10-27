@@ -12,7 +12,7 @@ Using control structures (if, for, while), do the following:
 
 4. compute the maximum of the elements of an array and display it in the console
 
-5. compute how many times a certain element appears in an array - tips: use object, var element = 2
+5. compute how many times a certain element appears in an array
 
 6. Using nested control structures (doua for + if) for generate the following pattern:
 
