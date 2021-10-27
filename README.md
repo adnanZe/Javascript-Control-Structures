@@ -1,5 +1,7 @@
 # Javascript-Control-Structures-SIIT-
 
+REQUIREMENTS:
+
 Using control structures (if, for, while), do the following: 
 
 1. display in the console the numbers from 1 to 20
