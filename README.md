@@ -1,8 +1,10 @@
-# Javascript-Control-Structures-SIIT-
+# Javascript-Control-Structures-SIIT
+
+# Challenge week 4
 
 REQUIREMENTS:
 
-Using control structures (if, for, while), do the following: 
+Using control structures (if, for, while), do the following:
 
 1. display in the console the numbers from 1 to 20
 

@@ -59,7 +59,7 @@ for(let i = 0; i < array.length; i++) {
 console.log('maximum number of the elements of the array is ' + max);
 
 
-// compute how many times a certain element appears in an array - tips: use object, var element = 2
+// compute how many times a certain element appears in an array 
 console.log('=================== 5. exercise START ===================');
 
 array = [];
@@ -81,7 +81,7 @@ for(let i = 0; i < array.length; i++) {
 console.log(key + ' element appear ' + counter + ' time(s) in the array');
 
 
-// Using nested control structures (doua for + if) for generate the following pattern
+// Using nested control structures for generate the following pattern
 console.log('=================== 6. exercise START ===================');
 
 let j = 0;
