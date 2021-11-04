@@ -25,3 +25,7 @@ Using control structures (if, for, while), do the following:
    0 1 0 1
 
    1 0 1 0
+
+==========================================================
+
+Check my solution in browser: https://adnanze.github.io/Javascript-Control-Structures-SIIT/
