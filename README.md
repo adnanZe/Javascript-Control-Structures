@@ -1,6 +1,6 @@
 # Javascript Control Structures
 
-:clipboard: REQUIREMENTS: Using control structures (if, for, while), do the following:
+:clipboard: Requirements: Using control structures (if, for, while), do the following:
 
 :pushpin: display in the console the numbers from 1 to 20
 
