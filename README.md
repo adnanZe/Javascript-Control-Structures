@@ -1,6 +1,4 @@
-# Javascript Control Structures SIIT
-
-# Challenge week 4
+# Javascript Control Structures
 
 REQUIREMENTS:
 
