@@ -1,4 +1,4 @@
-# Javascript-Control-Structures-SIIT
+# Javascript Control Structures SIIT
 
 # Challenge week 4
 
