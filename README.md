@@ -28,4 +28,8 @@ Using control structures (if, for, while), do the following:
 
 ==========================================================
 
-Check my solution in browser: https://adnanze.github.io/Javascript-Control-Structures-SIIT/
+Check my solution in browser :eyes: : https://adnanze.github.io/Javascript-Control-Structures-SIIT/
+
+:iphone: :x:
+:computer: :heavy_check_mark:
+:desktop_computer: :heavy_check_mark:
