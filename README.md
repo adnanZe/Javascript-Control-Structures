@@ -1,8 +1,6 @@
 # Javascript Control Structures
 
-REQUIREMENTS:
-
-Using control structures (if, for, while), do the following:
+:clipboard: REQUIREMENTS: Using control structures (if, for, while), do the following:
 
 :pushpin: display in the console the numbers from 1 to 20
 
@@ -26,7 +24,7 @@ Using control structures (if, for, while), do the following:
 
 ==========================================================
 
-Check my solution in browser :eyes: : https://adnanze.github.io/Javascript-Control-Structures/
+:eyes: Check my solution in browser :paperclip: https://adnanze.github.io/Javascript-Control-Structures/
 
 :iphone: :x:
 :computer: :heavy_check_mark:
